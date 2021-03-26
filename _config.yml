@@ -4,4 +4,6 @@ logo: assets/img/avatar.jpg
 show_downloads: false
 google_analytics: true
 
+thingiverse: https://www.thingiverse.com/wi1k1n
+
 theme: jekyll-theme-minimal
