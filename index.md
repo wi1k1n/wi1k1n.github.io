@@ -12,7 +12,7 @@ Byte Compressed Array library for Arduino. This is a small C++ class for Arduino
 ### [Tagify-wpf](https://github.com/wi1k1n/wpf-tagify)
 A WPF application that allows to quickly rename selected in Windows Explorer files according to selected tag. The Windows API is used to find the opened Explorer windows and extract selected files. The global shortcut is registered in Windows which allows to show/minimize app in a very quick way.
 
-### [Imeas-js](https://github.com/wi1k1n/imeas)
+### [Imeas](https://github.com/wi1k1n/imeas)
 A tiny web/javascript app for making linear and angular measurements on images.
 
 ### [Mafiozzy](https://github.com/wi1k1n/mafiozzy)
@@ -22,4 +22,4 @@ A small javascript web-application that implements a small toolset for managing 
 A recreation of the man hunt / assassin game mode featured in some of Dreams videos. This is an improved java-plugin for minecraft made by [NateKomodo](https://github.com/NateKomodo/DreamManHunt).
 
 ### [Tlitbot](https://github.com/wi1k1n/tlitbot), [Expendeebot](https://github.com/wi1k1n/expendeebot), [Trackmyhoursbot](https://github.com/wi1k1n/telegram-trackmyhoursbot), [Encryptmeallbot](https://github.com/wi1k1n/encryptmeallbot), [Securestorebot](https://github.com/wi1k1n/securestorebot), [Ilchessbot](https://github.com/wi1k1n/IlChess)
-Several telegram bots written using python and nodejs frameworks. These are pet projects that are mostly not lead to a least working version.
+Several telegram bots written using python and nodejs frameworks. These are pet projects that mostly do not even have a working version yet.
