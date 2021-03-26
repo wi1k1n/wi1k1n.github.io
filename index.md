@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+### [OSMand-live-tracker](https://github.com/wi1k1n/osmand-live-tracker)
 
-You can use the [editor on GitHub](https://github.com/wi1k1n/wi1k1n.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Small frontend + backend solution for real-time GPS updates (e.g. when riding bike). The [OsmAnd](https://github.com/osmandapp/Osmand) navigation app is used to pass (using GET requests) location data to backend part. The webpage is then just draws recorded track, showing all meta-information and automatically updating, when new location points come.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [BCArray-arduino](https://github.com/wi1k1n/bcarray-arduino)
 
-### Markdown
+Byte Compressed Array library for Arduino. This is a small C++ class for Arduino, that can be used instead of `uint8_t arr[]` to use less SRAM. Effective when using numbers that are lower than `uint8_t` (e.g. menu or state variables, which can only take a few values and do not need the whole capacity of `uint8_t`).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Thermograph-arduino](https://github.com/wi1k1n/thermograph-arduino)
 
-```markdown
-Syntax highlighted code block
+An autonomous DIY arduino-based thermometer with display and UART interface.
 
-# Header 1
-## Header 2
-### Header 3
+### [Tagify-wpf](https://github.com/wi1k1n/wpf-tagify)
 
-- Bulleted
-- List
+A WPF application that allows to quickly rename selected in Windows Explorer files according to selected tag. The Windows API is used to find the opened Explorer windows and extract selected files. The global shortcut is registered in Windows which allows to show/minimize app in a very quick way.
 
-1. Numbered
-2. List
+### [Imeas-js](https://github.com/wi1k1n/imeas)
 
-**Bold** and _Italic_ and `Code` text
+A tiny web/javascript app for making linear and angular measurements on images.
 
-[Link](url) and ![Image](src)
-```
+### [Mafiozzy](https://github.com/wi1k1n/mafiozzy)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A small javascript web-application that implements a small toolset for managing the board game called '[Mafia](https://en.wikipedia.org/wiki/Mafia_(party_game))'. This app can be used together with other video-conference app (such as [zoom](https://zoom.us/) or [whereby](https://whereby.com/)).
 
-### Jekyll Themes
+### [Manhunt-minecraft](https://github.com/wi1k1n/DreamManHunt)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wi1k1n/wi1k1n.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A recreation of the man hunt / assassin game mode featured in some of Dreams videos. This is an improved java-plugin for minecraft made by [NateKomodo](https://github.com/NateKomodo/DreamManHunt).
 
-### Support or Contact
+### [Tlitbot](https://github.com/wi1k1n/tlitbot), [Expendeebot](https://github.com/wi1k1n/expendeebot), [Trackmyhoursbot](https://github.com/wi1k1n/telegram-trackmyhoursbot), [Encryptmeallbot](https://github.com/wi1k1n/encryptmeallbot), [Securestorebot](https://github.com/wi1k1n/securestorebot), [Ilchessbot](https://github.com/wi1k1n/IlChess)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Several telegram bots written using python and nodejs frameworks. These are pet projects that are mostly not lead to a least working version.
