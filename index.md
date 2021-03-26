@@ -3,7 +3,7 @@
 Small frontend + backend solution for real-time GPS updates (e.g. when riding bike). The [OsmAnd](https://github.com/osmandapp/Osmand) navigation app is used to pass (using GET requests) location data to the backend part. The webpage is used to draw the recorded track, showing all information about the trip and automatically updating, when new location points come.
 
 ### [Thermograph-arduino](https://github.com/wi1k1n/thermograph-arduino)
-[<img src="https://github.com/wi1k1n/thermograph-arduino/raw/main/hardware/model.png" height="100" align="left" style="margin-right: 5px;">](https://github.com/wi1k1n/thermograph-arduino)
+[<img src="https://github.com/wi1k1n/thermograph-arduino/raw/main/hardware/model.png" height="50" align="left" style="margin-right: 5px;">](https://github.com/wi1k1n/thermograph-arduino)
 An autonomous DIY arduino-based thermometer with display and UART interface.
 
 ### [BCArray-arduino](https://github.com/wi1k1n/bcarray-arduino)
