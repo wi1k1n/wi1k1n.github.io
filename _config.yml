@@ -31,7 +31,8 @@ github_username:  wi1k1n
 
 # Build settings
 #theme: minima
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
