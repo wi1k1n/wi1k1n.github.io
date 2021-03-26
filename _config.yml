@@ -1,9 +1,10 @@
-title: Wi1k1n's website
+title: List of projects
 description: My name is Ilya Mazlov. Feel free to contact me if you have any questions.
 logo: assets/img/avatar.jpg
 show_downloads: false
 google_analytics: true
 
-thingiverse: https://www.thingiverse.com/wi1k1n
+thingiverse: https://www.thingiverse.com/wi1k1n/
+linkedin: https://www.linkedin.com/in/ilya-mazlov/
 
 theme: jekyll-theme-minimal
