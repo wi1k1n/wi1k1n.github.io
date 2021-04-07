@@ -53,13 +53,14 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         <p><small>Personal website: <a href="https://infiny.ddns.net/">infiny.ddns.net</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script async defer data-website-id="c3f33db6-3e96-4d1b-919e-5f930dbeab73" src="assets/js/umami.js"></script>
+    {% if site.analytics %}
+    <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101310360);</script>
+    <script async src="//static.getclicky.com/js"></script>
     {% endif %}
   </body>
 </html>
