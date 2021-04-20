@@ -1,13 +1,18 @@
 ### [Bachelor's Thesis code](https://github.com/wi1k1n/simulation-dynamic-systems)
-[<img src="https://github.com/wi1k1n/simulation-dynamic-systems/raw/master/figures/title-img.png" height="100" align="left" style="margin-right: 5px;">](https://github.com/wi1k1n/simulation-dynamic-systems)
+[<img src="https://github.com/wi1k1n/simulation-dynamic-systems/raw/master/figures/title-img.png" height="100" align="right" style="margin-right: 5px;">](https://github.com/wi1k1n/simulation-dynamic-systems)
 Repo with my final project of Bachelor's Degree. It contains C# and C++ solutions for calculating, analyzing and visualizing scale-free networks with dynamics on them. The Kuramoto oscillators are used as dynamic model in network nodes.
 
+### Flying-car-udacity: [Backyard Flyer](https://github.com/wi1k1n/udacity_flying_car_proj1) | [3D Motion Planner](https://github.com/wi1k1n/udacity_flying_car_proj2) | [Quad Controller](https://github.com/wi1k1n/udacity_flying_car_proj3)
+[<img src="https://raw.githubusercontent.com/wi1k1n/udacity_flying_car_proj3/master/img/5_TrajectoryFollow.gif" height="130" align="right" style="margin-right: 5px;">](https://github.com/wi1k1n/udacity_flying_car_proj3)
+Repos with 3 projects from ['Flying Car and Autonomous Flight Engineer'](https://www.udacity.com/course/flying-car-nanodegree--nd787) program from Udacity. The nanodegree included the following topics: Flying car architecture (quad parts, event-driven programming, flight phases), Motion planning (2D/3D search spaces, representations and algorithms, flying car representations, search optimisations), Quad controls (vehicle dynamics, P/PD/PID controllers, 2D/3D control architectures)
+
+
 ### [OSMand-live-tracker](https://github.com/wi1k1n/osmand-live-tracker)
-[<img src="https://github.com/wi1k1n/osmand-live-tracker/raw/master/img/screenshot.jpg" height="100" align="left" style="margin-right: 5px;">](https://github.com/wi1k1n/osmand-live-tracker)
+[<img src="https://github.com/wi1k1n/osmand-live-tracker/raw/master/img/screenshot.jpg" height="100" align="right" style="margin-right: 5px;">](https://github.com/wi1k1n/osmand-live-tracker)
 Small frontend + backend solution for real-time GPS updates (e.g. when riding bike). The [OsmAnd](https://github.com/osmandapp/Osmand) navigation app is used to pass (using GET requests) location data to the backend part. The webpage is used to draw the recorded track, showing all information about the trip and automatically updating, when new location points come.
 
 ### [Thermograph-arduino](https://github.com/wi1k1n/thermograph-arduino)
-[<img src="https://github.com/wi1k1n/thermograph-arduino/raw/main/hardware/model.png" height="50" align="left" style="margin-right: 5px;">](https://github.com/wi1k1n/thermograph-arduino)
+[<img src="https://github.com/wi1k1n/thermograph-arduino/raw/main/hardware/model.png" height="50" align="right" style="margin-right: 5px;">](https://github.com/wi1k1n/thermograph-arduino)
 An autonomous DIY arduino-based thermometer with display and UART interface.
 
 ### [BCArray-arduino](https://github.com/wi1k1n/bcarray-arduino)
