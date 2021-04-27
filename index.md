@@ -1,5 +1,5 @@
 ### Bachelor's Thesis codebase :<br>[Dynamics simulation](https://github.com/wi1k1n/simulation-dynamic-systems)
-[<img src="https://github.com/wi1k1n/simulation-dynamic-systems/raw/master/figures/title-img.png" height="100" align="right" style="margin-left: 7px;">](https://github.com/wi1k1n/simulation-dynamic-systems)
+[<img src="assets/img/SFNWOsc.gif" height="125" align="right" style="margin-left: 7px;">](https://github.com/wi1k1n/simulation-dynamic-systems)
 Repo with my final project of Bachelor's Degree. It contains C# and C++ solutions for calculating, analyzing and visualizing scale-free networks with dynamics on them. The Kuramoto oscillators are used as dynamic model in network nodes.
 
 ### Flying-car-udacity:<br>[Backyard Flyer](https://github.com/wi1k1n/udacity_flying_car_proj1) | [3D Motion Planner](https://github.com/wi1k1n/udacity_flying_car_proj2) | [Quad Controller](https://github.com/wi1k1n/udacity_flying_car_proj3)
