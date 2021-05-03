@@ -1,4 +1,4 @@
-### <span>Bachelor's Thesis codebase :<br>[Dynamics simulation](https://github.com/wi1k1n/simulation-dynamic-systems)</span><span style="display: inline-block;"><img src="assets/img/icons/dot-net.svg" height="32" style="float: right;"><img src="assets/img/icons/csharp.svg" height="32" style="float: right;"><img src="assets/img/icons/splusplus.svg" height="32" style="float: right;"></span>
+### <span>Bachelor's Thesis codebase :<br>[Dynamics simulation](https://github.com/wi1k1n/simulation-dynamic-systems)</span><span style="display: inline-block; float: right;"><img src="assets/img/icons/dot-net.svg" height="32"><img src="assets/img/icons/csharp.svg" height="32"><img src="assets/img/icons/splusplus.svg" height="32"></span>
 
 [<img src="assets/img/SFNWOsc.gif" height="125" align="right" style="margin-left: 7px;">](https://github.com/wi1k1n/simulation-dynamic-systems)
 Repo with my final project of Bachelor's Degree. It contains C# and C++ solutions for calculating, analyzing and visualizing scale-free networks with dynamics on them. The Kuramoto oscillators are used as dynamic model in network nodes.
@@ -16,7 +16,7 @@ Repos with 3 projects from ['Flying Car and Autonomous Flight Engineer'](https:/
 Small frontend + backend solution for real-time GPS updates (e.g. when riding bike). The [OsmAnd](https://github.com/osmandapp/Osmand) navigation app is used to pass (using GET requests) location data to the backend part. The webpage is used to draw the recorded track, showing all information about the trip and automatically updating, when new location points come. Implementation includes web/JavaScript solution for frontend, PHP and SQL solutions for backend.
 
 
-### [Thermograph-arduino](https://github.com/wi1k1n/thermograph-arduino)<span style="display: inline-block;"><img src="assets/img/icons/cplusplus.svg" height="32" align="right"></span>span>
+### [Thermograph-arduino](https://github.com/wi1k1n/thermograph-arduino)<span style="display: inline-block;"><img src="assets/img/icons/cplusplus.svg" height="32" align="right"></span>
 
 [<img src="https://raw.githubusercontent.com/wi1k1n/thermograph-arduino/main/hardware/scheme.png" height="70" align="right" style="margin-left: 7px;">
 <img src="https://github.com/wi1k1n/thermograph-arduino/raw/main/hardware/model.png" height="70" align="right" style="margin-left: 7px;">](https://github.com/wi1k1n/thermograph-arduino#wiring)
