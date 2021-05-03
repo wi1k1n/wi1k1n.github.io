@@ -1,7 +1,4 @@
-### Bachelor's Thesis codebase :<br>[Dynamics simulation](https://github.com/wi1k1n/simulation-dynamic-systems)
-<img src="assets/img/icons/cplusplus.svg" height="32" align="right">
-<img src="assets/img/icons/csharp.svg" height="32" align="right">
-<img src="assets/img/icons/dot-net.svg" height="32" align="right">
+### Bachelor's Thesis codebase :<br>[Dynamics simulation](https://github.com/wi1k1n/simulation-dynamic-systems)<img src="assets/img/icons/cplusplus.svg" height="32" align="right"><img src="assets/img/icons/csharp.svg" height="32" align="right"><img src="assets/img/icons/dot-net.svg" height="32" align="right">
 [<img src="assets/img/SFNWOsc.gif" height="125" align="right" style="margin-left: 7px;">](https://github.com/wi1k1n/simulation-dynamic-systems)
 Repo with my final project of Bachelor's Degree. It contains C# and C++ solutions for calculating, analyzing and visualizing scale-free networks with dynamics on them. The Kuramoto oscillators are used as dynamic model in network nodes.
 
