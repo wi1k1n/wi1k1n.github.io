@@ -1,4 +1,4 @@
-### Bachelor's Thesis codebase :<br>[Dynamics simulation](https://github.com/wi1k1n/simulation-dynamic-systems)<img src="assets/img/icons/cplusplus.svg" height="32" style="float: right;"><img src="assets/img/icons/csharp.svg" height="32" style="float: right;"><img src="assets/img/icons/dot-net.svg" height="32" style="float: right;">
+### Bachelor's Thesis codebase :<br>[Dynamics simulation](https://github.com/wi1k1n/simulation-dynamic-systems)<img src="assets/img/icons/cplusplus.svg" height="32" style="float: right; display: inline-block;"><img src="assets/img/icons/csharp.svg" height="32" style="float: right; display: inline-block;"><img src="assets/img/icons/dot-net.svg" height="32" style="float: right; display: inline-block;">
 [<img src="assets/img/SFNWOsc.gif" height="125" align="right" style="margin-left: 7px;">](https://github.com/wi1k1n/simulation-dynamic-systems)
 Repo with my final project of Bachelor's Degree. It contains C# and C++ solutions for calculating, analyzing and visualizing scale-free networks with dynamics on them. The Kuramoto oscillators are used as dynamic model in network nodes.
 
@@ -10,12 +10,7 @@ Repo with my final project of Bachelor's Degree. It contains C# and C++ solution
 Repos with 3 projects from ['Flying Car and Autonomous Flight Engineer'](https://www.udacity.com/course/flying-car-nanodegree--nd787) program from Udacity. The nanodegree included the following topics: Flying car architecture (quad parts, event-driven programming, flight phases), Motion planning (2D/3D search spaces, representations and algorithms, flying car representations, search optimisations), Quad controls (vehicle dynamics, P/PD/PID controllers, 2D/3D control architectures). The codebase consists of Python and C++ solutions (standalone & with frameworks).
 
 
-### [OSMand-live-tracker](https://github.com/wi1k1n/osmand-live-tracker)
-<img src="assets/img/icons/javascript.svg" height="32" align="right">
-<img src="assets/img/icons/jquery.svg" height="32" align="right">
-<img src="assets/img/icons/html5.svg" height="32" align="right">
-<img src="assets/img/icons/php.svg" height="32" align="right">
-<img src="assets/img/icons/mysql.svg" height="32" align="right">
+### [OSMand-live-tracker](https://github.com/wi1k1n/osmand-live-tracker)<img src="assets/img/icons/javascript.svg" height="32" style="float: right; display: inline-block;"><img src="assets/img/icons/jquery.svg" height="32" style="float: right; display: inline-block;"><img src="assets/img/icons/html5.svg" height="32" style="float: right; display: inline-block;"><img src="assets/img/icons/php.svg" height="32" style="float: right; display: inline-block;"><img src="assets/img/icons/mysql.svg" height="32" style="float: right; display: inline-block;">
 [<img src="https://github.com/wi1k1n/osmand-live-tracker/raw/master/img/screenshot.jpg" height="100" align="right" style="margin-left: 7px;">](http://batukah.000webhostapp.com/osholm/v2.0/)
 Small frontend + backend solution for real-time GPS updates (e.g. when riding bike). The [OsmAnd](https://github.com/osmandapp/Osmand) navigation app is used to pass (using GET requests) location data to the backend part. The webpage is used to draw the recorded track, showing all information about the trip and automatically updating, when new location points come. Implementation includes web/JavaScript solution for frontend, PHP and SQL solutions for backend.
 
