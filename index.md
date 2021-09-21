@@ -1,4 +1,9 @@
-### <span>Bachelor's Thesis codebase :<br>[Dynamics simulation](https://github.com/wi1k1n/simulation-dynamic-systems)</span><span style="float: right;"><img src="assets/img/icons/csharp.svg" height="32"><img src="assets/img/icons/dot-net.svg" height="32"><img src="assets/img/icons/cplusplus.svg" height="32"></span>
+### <span>Codebase for Master's Thesis:<br>[Neural Radiance & Reflectance Fields Accelerations](https://github.com/wi1k1n/nrf-accelerations)</span><span style="float: right;"><img src="assets/img/icons/python.svg" height="32"></span>
+
+[<img src="https://github.com/wi1k1n/nrf-accelerations/blob/main/docs/figs/thanks.gif" height="125" align="right" style="margin-left: 7px;">](https://github.com/wi1k1n/simulation-dynamic-systems)
+Repository with my Master's Thesis project. The Python + Pytorch implementation of the Neural Volumetric Fields (using Deep Neural Networks) aims to increase the efficiency of existing NeRF and NRF approaches. The Colocated/Brute-Force, Approximation and Implicit schemes have been proposed and qualitative results have been achieved.
+
+### <span>Codebase for Bachelor's Thesis:<br>[Dynamics simulation](https://github.com/wi1k1n/simulation-dynamic-systems)</span><span style="float: right;"><img src="assets/img/icons/csharp.svg" height="32"><img src="assets/img/icons/dot-net.svg" height="32"><img src="assets/img/icons/cplusplus.svg" height="32"></span>
 
 [<img src="assets/img/SFNWOsc.gif" height="125" align="right" style="margin-left: 7px;">](https://github.com/wi1k1n/simulation-dynamic-systems)
 Repo with my final project of Bachelor's Degree. It contains C# and C++ solutions for calculating, analyzing and visualizing scale-free networks with dynamics on them. The Kuramoto oscillators are used as dynamic model in network nodes.
