@@ -20,6 +20,10 @@ Repos with 3 projects from ['Flying Car and Autonomous Flight Engineer'](https:/
 [<img src="https://github.com/wi1k1n/osmand-live-tracker/raw/master/img/screenshot.jpg" height="100" align="right" style="margin-left: 7px;">](http://batukah.000webhostapp.com/osholm/v2.0/)
 Small frontend + backend solution for real-time GPS updates (e.g. when riding bike). The [OsmAnd](https://github.com/osmandapp/Osmand) navigation app is used to pass (using GET requests) location data to the backend part. The webpage is used to draw the recorded track, showing all information about the trip and automatically updating, when new location points come. Implementation includes web/JavaScript solution for frontend, PHP and SQL solutions for backend.
 
+### [Electro-Shutters](https://github.com/wi1k1n/autoshutterer)<span style="float: right"><img src="assets/img/icons/cplusplus.svg" height="32"><img src="assets/img/icons/python.svg" height="32"></span>
+
+[<img src="https://github.com/wi1k1n/autoshutterer/raw/master/img/final_setup.jpg" height="100" align="right" style="margin-left: 7px;">](https://github.com/wi1k1n/autoshutterer)
+Hardware+Software solution for scheduling electric shutters. ESP-based hardware controls servo on web-requests protected with digest authentication. Calibration is also done through served web-server. Python script calculates proper time (based on sunrise/sunset time) and sends signals to open/close the shutters. When running on ubuntu (e.g. Raspberry Pi) template service configuration is provided.
 
 ### [Thermograph-arduino](https://github.com/wi1k1n/thermograph-arduino)<span style="float: right;"><img src="assets/img/icons/cplusplus.svg" height="32"></span>
 
